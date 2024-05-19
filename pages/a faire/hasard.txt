@@ -1,0 +1,3 @@
+feuille qui permet de générer des nombre au hasard,
+des images au hasard,
+des articles wikipedia au hasard
